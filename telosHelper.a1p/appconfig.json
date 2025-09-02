@@ -1,0 +1,8 @@
+{
+  "name": "Telos Helper",
+  "description": "Tracks Telos phases and mechanics in RS3.",
+  "appUrl": "index.html",
+  "iconUrl": "icon.png",
+  "defaultWidth": 320,
+  "defaultHeight": 240
+}
